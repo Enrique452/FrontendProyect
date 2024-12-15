@@ -13,7 +13,7 @@ import Navbar from "./components/Navbar";
 import NotFound from "./pages/NotFound";
 import VentasFormPage from "./pages/VentasFormPages";
 import VentasPage from "./pages/VentasPage";
-import { DetalleVentaProvider } from "./context/detalleVentaContext";
+import { DetalleVentaProvider } from "../context/detalleVentaContext";
 import VentasDetallePage from "./pages/VentasDetallePage"; // Nueva página
 
 function App() {
